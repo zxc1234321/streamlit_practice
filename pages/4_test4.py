@@ -5,5 +5,3 @@ def show():
     time.sleep(5)
     "HiHi"
 show()
-
-st.secrets(api_key="api_key")
